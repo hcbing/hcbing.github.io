@@ -72,7 +72,7 @@ We use [GitHub](https://github.com/) for versioning. For the versions available,
 
 ## Authors
 
-* **Alex Chan** - *Initial work* - [PurpleBooth](https://github.com/hcbing/hcbing.github.io)
+* **Alex Chan** - *Initial work* - [hcbing.github.io](https://github.com/hcbing/hcbing.github.io)
 
 See also the list of [contributors](https://github.com/hcbing/hcbing.github.io/contributors) who participated in this project.
 
